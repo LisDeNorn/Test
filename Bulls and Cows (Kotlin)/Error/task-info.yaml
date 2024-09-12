@@ -1,0 +1,12 @@
+type: edu
+custom_name: Error!
+files:
+  - name: src/bullscows/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/BullsCowsTest.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30282#comment
+status: Unchecked
+record: -1
